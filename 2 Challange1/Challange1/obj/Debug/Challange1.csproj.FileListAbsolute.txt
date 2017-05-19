@@ -1,0 +1,5 @@
+F:\privat\computer\projects\C#\AToZCourse\DataTypes\Challange1\Challange1\bin\Debug\Challange1.exe.config
+F:\privat\computer\projects\C#\AToZCourse\DataTypes\Challange1\Challange1\bin\Debug\Challange1.exe
+F:\privat\computer\projects\C#\AToZCourse\DataTypes\Challange1\Challange1\bin\Debug\Challange1.pdb
+F:\privat\computer\projects\C#\AToZCourse\DataTypes\Challange1\Challange1\obj\Debug\Challange1.exe
+F:\privat\computer\projects\C#\AToZCourse\DataTypes\Challange1\Challange1\obj\Debug\Challange1.pdb

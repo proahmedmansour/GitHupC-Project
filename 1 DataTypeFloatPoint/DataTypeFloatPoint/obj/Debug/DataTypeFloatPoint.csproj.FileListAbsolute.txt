@@ -1,0 +1,6 @@
+F:\privat\computer\projects\C#\AToZCourse\DataTypes\DataTypeFloatPoint\DataTypeFloatPoint\bin\Debug\DataTypeFloatPoint.exe.config
+F:\privat\computer\projects\C#\AToZCourse\DataTypes\DataTypeFloatPoint\DataTypeFloatPoint\bin\Debug\DataTypeFloatPoint.exe
+F:\privat\computer\projects\C#\AToZCourse\DataTypes\DataTypeFloatPoint\DataTypeFloatPoint\bin\Debug\DataTypeFloatPoint.pdb
+F:\privat\computer\projects\C#\AToZCourse\DataTypes\DataTypeFloatPoint\DataTypeFloatPoint\obj\Debug\DataTypeFloatPoint.csprojResolveAssemblyReference.cache
+F:\privat\computer\projects\C#\AToZCourse\DataTypes\DataTypeFloatPoint\DataTypeFloatPoint\obj\Debug\DataTypeFloatPoint.exe
+F:\privat\computer\projects\C#\AToZCourse\DataTypes\DataTypeFloatPoint\DataTypeFloatPoint\obj\Debug\DataTypeFloatPoint.pdb
